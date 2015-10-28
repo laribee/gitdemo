@@ -1,3 +1,3 @@
 # gitdemo
 
-forgot to add a readme!
+## Git is Wonderful (and Confusing)
